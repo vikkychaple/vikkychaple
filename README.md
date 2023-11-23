@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vikkychaple](https://github.com/vikkychaple)
 
-- 💬 Ask me about **react, Javascript, HTML/CSS**
+- 💬 Ask me about **React, Javascript, HTML/CSS**
 
 - 📫 How to reach me **vikkychaple007@gmail.com**
 
